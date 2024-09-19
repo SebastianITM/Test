@@ -1,0 +1,11 @@
+C:\Users\Sebastian\source\repos\licorera\lib_entidades\bin\Debug\net8.0\lib_entidades.deps.json
+C:\Users\Sebastian\source\repos\licorera\lib_entidades\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\Sebastian\source\repos\licorera\lib_entidades\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\Sebastian\source\repos\licorera\lib_entidades\obj\Debug\net8.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\source\repos\licorera\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\licorera\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\licorera\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\licorera\lib_entidades\obj\Debug\net8.0\lib_entidades.dll
+C:\Users\Sebastian\source\repos\licorera\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
+C:\Users\Sebastian\source\repos\licorera\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
+C:\Users\Sebastian\source\repos\licorera\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll
